@@ -1,0 +1,24 @@
+h3{
+	margin-top: 20px; 
+	margin-bottom: 20px;
+}
+
+input{
+	margin: 10px; /*Margem nas caixas de entrada de texto*/
+}
+
+#btnEnviar{
+	margin-top: 20px; 
+	margin-bottom: 20px; 
+}
+
+#btnOrganizar{
+	display: none;
+	margin-top: 20px; 
+	margin-bottom: 20px; 
+}
+
+#displayName{
+	margin-top: 20px;
+	font-weight: bold;
+}
