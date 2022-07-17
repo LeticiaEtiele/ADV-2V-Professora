@@ -1,0 +1,54 @@
+1I. Please rate Cristal Trindade L’s ability to give analytical, step-by-step answers to your questions
+
+1P. Avalie a capacidade do ALUNOX de dar respostas analíticas passo a passo às suas perguntas
+
+Resp Padrão:
+ALUNOX sempre analisa os desafios e consegue resolve-los com facilidade, seu raciocínio lógico se amplia a cada aula.
+
+Resp Adaptada:
+
+-------------------------------------------------
+
+2I. Please rate ALUNOX ability to give creative, out-of-the-box answers to your questions.
+
+2P. Avalie a capacidade da ALUNOX de dar respostas criativas e inovadoras às suas perguntas.
+
+Resp Padrão:
+Sempre desenvolve apps limpos, funcionais e criativos. Para elX um desafio dado sempre é um desafio cumprido.
+
+Resp Adaptada:
+
+-------------------------------------------------
+
+1I. Please rate ALUNOX ability to persistently try and solve an activity or a project.
+
+1P. Avalie a capacidade de ALUNOX de persistentemente tentar resolver uma atividade ou projeto.
+
+Resp Padrão:
+O ALUNOX esta sempre empenhado em resolver os desafios com sucesso e de forma objetiva.
+
+Resp Adaptada:
+
+-------------------------------------------------
+2I. Please rate ALUNOX ability to take feedback constructively, and continuously learn and grow from them.
+
+2P. Avalie a capacidade de ALUNOX de receber feedback de forma construtiva e continuamente aprender e crescer com eles.
+
+Resp Padrão:
+Esta sempre atentX as minhas orientações. Continue assim, para se tornar umX DEV (desenvolvedor) referência na área.
+
+Resp Adaptada:
+
+-------------------------------------------------
+3I. Please rate ALUNOX ability to learn the concepts patiently and at the right time, rather than rushing through the activities.
+
+3P. Avalie a capacidade de ALUNOX de aprender os conceitos pacientemente e no momento certo, em vez de se apressar nas atividades.
+
+Resp Padrão:
+ALUNOX é um alunX muito inteligente, capta as explicações com facilidade e as coloca em prática nas resoluções dos desafios.
+
+Resp Adaptada:
+
+-------------------------------------------------
+Feedback Geral Adaptado:
+Estou muito impressionada com seu progresso. Me orgulho em ver os seus projetos finalizados com criatividade, dedicação e sucesso. Parabéns!!!
