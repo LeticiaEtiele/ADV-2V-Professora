@@ -1,0 +1,64 @@
+1I. Please rate ALUNOX ability to give analytical, step-by-step answers to your questions.
+
+1P. Avalie a capacidade do ALUNOX de dar respostas analíticas passo a passo às suas perguntas.
+
+Resp Padrão:
+O ALUNOX sempre aplica com facilidade os conceitos de algoritmos para resolver os desafios durante as aulas 
+
+Resp Adaptada:
+
+-------------------------------------------------
+
+2I. Please rate ALUNOX ability to give creative, out-of-the-box answers to your questions.
+
+2P. Avalie a capacidade de ALUNOX de dar respostas criativas e inovadoras às suas perguntas.
+
+Resp Padrão:
+Durante as aulas alunXXXX me surpreende com suas habilidades de programação, sua criatividade e seu empenho em atingir os objetivos. 
+
+Resp Adaptada:
+
+-------------------------------------------------
+3I. Please rate ALUNOX  ability to write error-free code in a short time during the classes or in projects.
+
+3P. Avalie a capacidade do ALUNOX de escrever código sem erros em um curto espaço de tempo durante as aulas ou em projetos.
+
+Resp Padrão: Seu raciocínio lógico gera códigos claros e objetivos, além de auxiliar na rápida tomada de decisão durante as aulas
+
+Resp Adaptada:
+
+-------------------------------------------------
+4I. Please rate ALUNOX ability to persistently try and solve an activity or a project.
+
+4P. Avalie a capacidade de ALUNOX de persistentemente tentar resolver uma atividade ou projeto.
+
+Resp Padrão:
+alunXXXX é um exemplo de aluno, pois esta sempre empenhadXXXX em resolver os desafios com sucesso. 
+
+Resp Adaptada:
+
+-------------------------------------------------
+5I. Please rate ALUNOX ability to take feedback constructively, and continuously learn and grow from them
+
+5P. Avalie a capacidade de ALUNOX de receber feedback de forma construtiva e continuamente aprender e crescer com eles
+
+Resp Padrão:
+Sempre recebe os feedbacks de forma atenciosa e focadXXX nos detalhes. Continue assim, pois logo logo você será umXXX desenvolvedorXXX profissional
+
+Resp Adaptada:
+
+-------------------------------------------------
+6I. Please rate ALUNOX ability to learn the concepts patiently and at the right time, rather than rushing through the activities.
+
+6P.Avalie a capacidade de ALUNOX de aprender os conceitos pacientemente e no momento certo, em vez de se apressar nas atividades.
+
+Resp Padrão:
+É muito gratificante ver seu foco em aprender e perceber que oXXX alunXXX compreendeu os conceitos e conseguiu coloca-los em prática.
+
+Resp Adaptada:
+
+-------------------------------------------------
+Padrão:
+ALUNOX é umX alunX esforçadX e muito dedicadX. Esta sempre atentX as explicações e por isso consegue resolver os desafios com sucesso. Estou muito orgulhosa em ver seu progresso.
+
+Adaptado:
