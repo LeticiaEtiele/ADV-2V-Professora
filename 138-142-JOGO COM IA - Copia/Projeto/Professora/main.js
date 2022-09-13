@@ -9,11 +9,13 @@ function preload() {
 	MarioAnimation();
 }
 
+//AULA 139
 function setup() {
-	canvas = createCanvas(1240,336);
-	canvas.parent('canvas');
+	canvas = createCanvas(1240,336); //Dimensões específicas do jogo
+	//Inserir o canvas dentro da div reservada no HTML
+	canvas.parent('canvas'); //Sintaxe: componenteP5.parent(“ID HTML”)
 
-	instializeInSetup(mario);
+	instializeInSetup(mario); //Organizará as variáveis e funções necessárias para o jogo
 	
 	video = createCapture(VIDEO);
 	video.size(800,400);
@@ -21,7 +23,10 @@ function setup() {
 
 	poseNet = ml5.poseNet(video, modelLoaded);
 	poseNet.on('pose', gotPoses);
+}
 
+function draw() {
+	game();
 }
 
 function modelLoaded() {
@@ -35,10 +40,6 @@ function gotPoses(results){
 	  noseY = results[0].pose.nose.y;
 	}
   }
-   
-function draw() {
-	game();
-}
 
 
 
